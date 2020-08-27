@@ -3,13 +3,13 @@ import '@firebase/auth';
 import '@firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAOWHBpPhKoNhcGFKHH_Q_0AtL2gV-imgQ',
-  authDomain: 'production-a9404.firebaseapp.com',
-  databaseURL: 'https://production-a9404.firebaseio.com',
-  projectId: 'production-a9404',
-  storageBucket: 'production-a9404.appspot.com',
-  messagingSenderId: '525472070731',
-  appId: '1:525472070731:web:ee873bd62c0deb7eba61ce',
+  apiKey: 'AIzaSyBFXZHsVhPGyOmtxW3FGIepaDJ6AVFkQqI',
+  authDomain: 'free-food-b7929.firebaseapp.com',
+  databaseURL: 'https://free-food-b7929.firebaseio.com',
+  projectId: 'free-food-b7929',
+  storageBucket: 'free-food-b7929.appspot.com',
+  messagingSenderId: '519436485702',
+  appId: '1:519436485702:android:df1e1cfcd7ccf4a3aab647',
 };
 
 if (!firebase.apps.length) {
